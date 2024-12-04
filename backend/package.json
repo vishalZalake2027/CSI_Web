@@ -17,8 +17,8 @@
 }
 
 {
-  "scripts": {
-    "start": "vite preview",  // For Vite projects, use vite preview to run the production build
-    "build": "vite build"
-  }
+  "start": "vite preview",
+  "build": "vite build",
+  "dev": "vite"
 }
+
